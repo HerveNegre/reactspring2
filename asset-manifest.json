@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactspring/static/css/main.3c4f477f.chunk.css",
+    "main.js": "/reactspring/static/js/main.4f2fb39d.chunk.js",
+    "main.js.map": "/reactspring/static/js/main.4f2fb39d.chunk.js.map",
+    "runtime-main.js": "/reactspring/static/js/runtime-main.82eec279.js",
+    "runtime-main.js.map": "/reactspring/static/js/runtime-main.82eec279.js.map",
+    "static/js/2.76c6cd6c.chunk.js": "/reactspring/static/js/2.76c6cd6c.chunk.js",
+    "static/js/2.76c6cd6c.chunk.js.map": "/reactspring/static/js/2.76c6cd6c.chunk.js.map",
+    "index.html": "/reactspring/index.html",
+    "static/css/main.3c4f477f.chunk.css.map": "/reactspring/static/css/main.3c4f477f.chunk.css.map",
+    "static/js/2.76c6cd6c.chunk.js.LICENSE.txt": "/reactspring/static/js/2.76c6cd6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82eec279.js",
+    "static/js/2.76c6cd6c.chunk.js",
+    "static/css/main.3c4f477f.chunk.css",
+    "static/js/main.4f2fb39d.chunk.js"
+  ]
+}
