@@ -29,11 +29,11 @@ export default function Disappear() {
                     ]);
                 }}
             >
-                {vue.length ? "non merci !" : "cliquez !"}
+                {vue.length ? "NON MERCI !" : "CLIQUEZ !"}
             </button>
             <div className="transition-disappear">
                 {transition((style, item) => 
-                item ? <animated.div style={style} className="item"/>
+                item ? <animated.div style={style} className="item" />
                 : ""
                 )}
             </div>
