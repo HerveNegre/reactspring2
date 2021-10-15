@@ -2,7 +2,7 @@
   "name": "react-animations",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hervenegre.github.io/reactspring2/",
+  "homepage": "https://HerveNegre.github.io/reactspring2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
